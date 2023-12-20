@@ -97,7 +97,7 @@
         "tree-model": "^1.0.7",
         "typescript-ioc": "^1.2.5",
         "uuid": "^3.3.2",
-        "web-resource-inliner": "^4.3.4",
+        "web-resource-inliner": "^5.0.0",
         "winreg": "^1.2.4"
     },
     "devDependencies": {
